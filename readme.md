@@ -238,4 +238,3 @@ Ao final do loop, os arrays contendo os níveis de carga (em Mbps), a latência 
    ```bash
    python3 load_tester.py
    ```
-4. Verifique a geração do arquivo `relatorio_desempenho_rede.png` ao término da execução e anexe-o ao relatório do trabalho acadêmico.
