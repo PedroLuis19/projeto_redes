@@ -5,8 +5,8 @@ import statistics
 import matplotlib.pyplot as plt
 
 # CONFIGURAÇÕES DA SUA BANCADA
-SERVER_IP = "192.168.1.100"  # Substitua pelo IP da máquina servidora (iperf3 -s)
-TARGET_HOST = "192.168.1.100" # Alvo para o ping
+SERVER_IP = "10.68.133.139"  # Substitua pelo IP da máquina servidora (iperf3 -s)
+TARGET_HOST = "10.68.133.240" # Alvo para o ping
 LOAD_LEVELS = ["1M", "5M", "10M", "25M", "50M", "100M"] # Níveis de carga de teste (Mbps)
 DURATION = 5  # Duração de cada teste em segundos
 
